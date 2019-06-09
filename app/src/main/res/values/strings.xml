@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Zadanie 3 - Kula decyzyjna</string>
+    <string-array name="answers">
+        <item>Do not count\non it.</item>
+        <item>My reply\nis no.</item>
+        <item> It is\ncertain.</item>
+        <item>My sources\nsay no.</item>
+        <item>Outlook\nnot so\ngood</item>
+        <item>Very\ndoubtful.</item>
+        <item>It is\ndecidedly\nso.</item>
+        <item>Without\na doubt.</item>
+        <item>Signs point\nto yes</item>
+        <item>Reply hazy,\ntry again.</item>
+        <item>Ask again\nlater.</item>
+        <item>Yes -\ndefinitely.</item>
+        <item>You may\nearly on it.</item>
+        <item>As I see\nit, yes.</item>
+        <item>Most\nlikely.</item>
+        <item>Outlook\ngood.</item>
+        <item>Yes.</item>
+        <item>Better\nnot tell\nyou now.</item>
+        <item>Cannot\npredict\nnow.</item>
+        <item>Concentrate\nand ask\nagain.</item>
+    </string-array>
+</resources>
